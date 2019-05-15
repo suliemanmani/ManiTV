@@ -1,16 +1,2 @@
 #EXTINF:-1,Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,Deutsche Welle
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1,TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,~ Lebanon TV ~
-http://www.lengua.com/anthems/Lebanon.mp3
-#EXTINF:-1,Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1,Al Manar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1,~ Syria TV ~
-http://www.lengua.com/anthems/Syria.mp3
